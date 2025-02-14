@@ -1,0 +1,26 @@
+<table>
+    <thead>
+        <tr>
+            <th>College Code</th>
+            <th>College Name</th>
+            <th>Branch</th>
+            <th>Location</th>
+            <th>Cutoff Rank</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in values %}
+        <tr>
+            <td>{{ row.College_Code }}</td>
+            <td>{{ row.College_Name }}</td>
+            <td>{{ row.Branch }}</td>
+            <td>{{ row.Location }}</td>
+            <td>{{ row.Cutoff }}</td>
+        </tr>
+        {% empty %}
+        <tr>
+            <td colspan="5">No colleges found for the provided details.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

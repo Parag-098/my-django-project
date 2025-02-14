@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f;
+    color: white;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.logo {
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #e50914;
+}
+
+.form-container, .result-container, .steps {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+h2, h3 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+form label {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #222;
+    color: white;
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    background-color: #e50914;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #f40612;
+}
+
+.result-container {
+    display: none;
+}
+
+.college-card {
+    background-color: #444;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+}
+
+.college-card img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.college-card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+
+.college-card p {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.college-card a {
+    color: #e50914;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.college-card a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1rem;
+    color: #ccc;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+.steps ol {
+    padding-left: 20px;
+}
+
+.steps {
+    margin-top: 40px;
+    background-color: #444;
+    padding: 20px;
+    border-radius: 8px;
+}
