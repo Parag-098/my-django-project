@@ -1,16 +1,11 @@
+{% extends 'base.html' %}
 {% load static %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CET College Predictor</title>
-    <link rel="stylesheet" href="{% static 'first.css' %}">
-</head>
-<body>
+
+{% block title %}CET College Predictor{% endblock %}
+
+{% block content %}
     <div class="container">
         <header>
-            <img src="{% static 'logo.png' %}" alt="College Predictor Logo" class="logo">
             <h1>CET College Predictor</h1>
         </header>
 
@@ -18,15 +13,93 @@
             <h2>Enter your details</h2>
             <form method="POST" action="{% url 'result' %}">
                 {% csrf_token %}
+                
+                <!-- CET Rank Input -->
                 <label for="rank">CET Rank:</label>
                 <input type="number" id="rank" name="rank" required>
-
+        
+                <!-- Region Dropdown -->
                 <label for="region">Preferred Region:</label>
-                <input type="text" id="region" name="region" required>
+                <select id="region" name="region" required>
+                    <option value="" disabled selected>Select a region</option>
+                    <option value="Ahmednagar">Ahmednagar</option>
+                    <option value="Ambegaon">Ambegaon</option>
+                    <option value="Amravati">Amravati</option>
+                    <option value="Aurangabad">Aurangabad</option>
+                    <option value="Badnera">Badnera</option>
+                    <option value="Bhandara">Bhandara</option>
+                    <option value="Chandrapur">Chandrapur</option>
+                    <option value="Dhule">Dhule</option>
+                    <option value="Ichalkaranji">Ichalkaranji</option>
+                    <option value="Jalgaon">Jalgaon</option>
+                    <option value="Kankavli">Kankavli</option>
+                    <option value="Karad">Karad</option>
+                    <option value="Kolhapur">Kolhapur</option>
+                    <option value="Kopargaon">Kopargaon</option>
+                    <option value="Latur">Latur</option>
+                    <option value="Lonere">Lonere</option>
+                    <option value="Mumbai">Mumbai</option>
+                    <option value="Nagpur">Nagpur</option>
+                    <option value="Nanded">Nanded</option>
+                    <option value="Nashik">Nashik</option>
+                    <option value="Nepti">Nepti</option>
+                    <option value="Pandharpur">Pandharpur</option>
+                    <option value="Pune">Pune</option>
+                    <option value="Raigad">Raigad</option>
+                    <option value="Ratnagiri">Ratnagiri</option>
+                    <option value="Sangamner">Sangamner</option>
+                    <option value="Sangli">Sangli</option>
+                    <option value="Satara">Satara</option>
+                    <option value="Shegaon">Shegaon</option>
+                    <option value="Shirpur">Shirpur</option>
+                    <option value="Solapur">Solapur</option>
+                    <option value="Warananagar">Warananagar</option>
+                    <option value="Yavatmal">Yavatmal</option>
+                </select>
 
+                <!-- Branch Dropdown -->
+                <label for="branch">Preferred Branch:</label>
+                <select id="branch" name="branch" required>
+                    <option value="" disabled selected>Select a branch</option>
+                    <option value="Artificial Intelligence">Artificial Intelligence</option>
+                    <option value="Artificial Intelligence and Data Science">Artificial Intelligence and Data Science</option>
+                    <option value="Artificial Intelligence and Machine Learning">Artificial Intelligence and Machine Learning</option>
+                    <option value="Computer Engineering">Computer Engineering</option>
+                    <option value="Computer Engineering (Software Engineering">Computer Engineering (Software Engineering)</option>
+                    <option value="Computer Science">Computer Science</option>
+                    <option value="Computer Science & Engineering">Computer Science & Engineering</option>
+                    <option value="Computer Science & Engineering ( Artificial Intelligence & Machine Learning)">Computer Science & Engineering ( Artificial Intelligence & Machine Learning)</option>
+                    <option value="Computer Science & Engineering ( Artificial Intelligence )">Computer Science & Engineering ( Artificial Intelligence )</option>
+                    <option value="Computer Science & Engineering ( Data Science)">Computer Science & Engineering ( Data Science)</option>
+                    <option value="Computer Science & Engineering (IOT)">Computer Science & Engineering (IOT)</option>
+                    <option value="Computer Science and Engineering">Computer Science and Engineering</option>
+                    <option value="Computer Science and Engineering (Cyber Security)">Computer Science and Engineering (Cyber Security)</option>
+                    <option value="Computer Science and Engineering (Data Science)">Computer Science and Engineering (Data Science)</option>
+                    <option value="Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology)">Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology)</option>
+                    <option value="Computer Science and Engineering(Artificial Intelligence and Machine Learning)">Computer Science and Engineering(Artificial Intelligence and Machine Learning)</option>
+                    <option value="Computer Science and Engineering(Artificial Intelligence)">Computer Science and Engineering(Artificial Intelligence)</option>
+                    <option value="Computer Science and Engineering(Cyber Security)">Computer Science and Engineering(Cyber Security)</option>
+                    <option value="Computer Science and Engineering(Data Science)">Computer Science and Engineering(Data Science)</option>
+                    <option value="Computer Science and Information Technology">Computer Science and Information Technology</option>
+                    <option value="Computer Science and Technology">Computer Science and Technology</option>
+                    <option value="Computer Science(Artificial Intelligence and Machine Learning)">Computer Science(Artificial Intelligence and Machine Learning)</option>
+                    <option value="Computer Science(Cyber Security)">Computer Science(Cyber Security)</option>
+                    <option value="Computer Science(Data Science)">Computer Science(Data Science)</option>
+                    <option value="Computer Science(IoT)">Computer Science(IoT)</option>
+                    <option value="Computer Technology">Computer Technology</option>
+                    <option value="Cyber Security">Cyber Security</option>
+                    <option value="Data Science">Data Science</option>
+                    <option value="Electronics & Computer science">Electronics & Computer science</option>
+                    <option value="Electronics and Computer Engineering">Electronics and Computer Engineering</option>
+                    <option value="Electronics and Computer Science">Electronics and Computer Science</option>
+                    <option value="Electronics and Telecommunication Engineering">Electronics and Telecommunication Engineering</option>
+                    <option value="Information Technology">Information Technology</option>
+                    <option value="Internet of Things (IoT)">Internet of Things (IoT)</option>
+                    <option value="Robotics and Artificial Intelligence">Robotics and Artificial Intelligence</option>
+                </select>
+        
                 <button type="submit">Predict Colleges</button>
             </form>
         </div>
     </div>
-</body>
-</html>
+{% endblock %}

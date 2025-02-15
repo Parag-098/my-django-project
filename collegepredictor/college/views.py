@@ -1,31 +1,47 @@
 from django.shortcuts import render
 import pandas as pd
 
-# Load the dataset once
-df = pd.read_csv("all_regions_combined_tech_branches_final.csv")
+# Load and clean the dataset
+df = pd.read_csv("all_regions_combined_tech_branches_final_cleaned.csv")
+
+# Standardize column names
+df.columns = df.columns.str.strip().str.replace(" ", "_")  # Remove spaces and replace with "_"
 
 def homepage(request):
     return render(request, 'homepage.html')
 
-def predict_college(rank, region):
-    # Convert input to integer
-    rank = int(rank)
+def predict_college(rank, region, branch):
+    try:
+        rank = int(rank)
+        region = region.strip()
+        branch = branch.strip()
 
-    # Filter colleges based on cutoff rank and location
-    filtered_df = df[(df["Cutoff"] >= rank) & (df["Location"].str.contains(region, case=False))]
+        # Standardizing column names
+        filtered_df = df[
+            (df["Cutoff"] >= rank) & 
+            (df["Location"].str.contains(region, case=False, na=False)) & 
+            (df["Branch"].str.contains(branch, case=False, na=False))
+        ]
 
-    # Convert DataFrame to list of dictionaries
-    return filtered_df.to_dict(orient="records")
+        # Sorting and removing duplicate colleges
+        sorted_df = filtered_df.sort_values(by="Cutoff", ascending=True).drop_duplicates(subset=["College_Name"], keep="last")
+
+        return sorted_df.to_dict(orient="records")
+    
+    except Exception as e:
+        return {"error": str(e)}
 
 def result(request):
     if request.method == 'POST':
         rank = request.POST.get('rank')
         region = request.POST.get('region')
+        branch = request.POST.get('branch')
 
-        try:
-            results = predict_college(rank, region)
-            return render(request, 'results.html', {'values': results})
-        except Exception as e:
-            return render(request, 'results.html', {'error': str(e)})
+        results = predict_college(rank, region, branch)
+
+        return render(request, 'results.html', {'values': results})
 
     return render(request, 'results.html')
+
+def about(request):
+    return render(request, 'about.html')

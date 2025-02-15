@@ -1,0 +1,1133 @@
+Sr.No,College_Code,College_Name,Branch,Location,Cutoff
+1,6006,COEP Technological University,Computer Engineering,Pune,30
+2,3012,"Veermata Jijabai Technological 
+Institute(VJTI)",Computer Engineering,Mumbai,80
+3,3012,"Veermata Jijabai Technological 
+Institute(VJTI)",Information Technology,Mumbai,130
+4,6006,COEP Technological University,Electronics and Telecommunication Engineering,Pune,180
+5,3215,"Bhartiya Vidya Bhavan's Sardar Patel 
+Institute of Technology",Computer Engineering,Mumbai,230
+6,3215,"Bhartiya Vidya Bhavan's Sardar Patel 
+Institute of Technology",Computer Science and Engineering,Mumbai,280
+7,3012,"Veermata Jijabai Technological 
+Institute(VJTI)",Electronics and Telecommunication Engineering,Mumbai,330
+8,6271,"Pune Institute of Computer 
+Technology, Dhankavdi, Pune",Computer Engineering,Pune,380
+9,6006,COEP Technological University,Robotics and Artificial Intelligence,Pune,430
+10,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Computer Engineering,Mumbai,480
+11,6271,"Pune Institute of Computer 
+Technology, Dhankavdi, Pune",Information Technology,Pune,530
+12,6007,Walchand College of Engineering,Computer Science and Engineering,Sangli,580
+13,6271,"Pune Institute of Computer 
+Technology, Dhankavdi, Pune",Artificial Intelligence and Data Science,Pune,630
+14,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Artificial Intelligence and Machine Learning,Mumbai,680
+15,6007,Walchand College of Engineering,Information Technology,Sangli,730
+16,3215,"Bhartiya Vidya Bhavan's Sardar Patel 
+Institute of Technology",Electronics and Telecommunication Engineering,Mumbai,780
+17,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Computer Engineering,Pune,830
+18,6271,"Pune Institute of Computer 
+Technology, Dhankavdi, Pune",Electronics and Computer Engineering,Pune,880
+19,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Information Technology,Mumbai,930
+20,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Artificial Intelligence and Data Science,Mumbai,980
+21,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Computer Science and Engineering(Data Science),Mumbai,1030
+22,3182,"Thadomal Shahani Engineering 
+College",Computer Engineering,Mumbai,1080
+23,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Information Technology,Pune,1130
+24,6271,"Pune Institute of Computer 
+Technology, Dhankavdi, Pune",Electronics and Telecommunication Engineering,Pune,1180
+25,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Pune,1230
+26,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,1281
+27,6175,"Pimpri Chinchwad Education Trust, 
+Pimpri Chinchwad College of 
+Engineering, Pune",Computer Engineering,Pune,1331
+28,6276,"MKSSS's Cummins College of 
+Engineering for Women, Karvenagar, 
+Pune",Computer Engineering,Pune,1381
+29,3182,"Thadomal Shahani Engineering 
+College",Information Technology,Mumbai,1431
+30,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Computer Science and Engineering(Artificial Intelligence),Pune,1481
+31,6175,"Pimpri Chinchwad Education Trust, 
+Pimpri Chinchwad College of 
+Engineering, Pune",Information Technology,Pune,1531
+32,3182,"Thadomal Shahani Engineering 
+College",Artificial Intelligence and Data Science,Mumbai,1581
+33,6175,"Pimpri Chinchwad Education Trust, 
+Pimpri Chinchwad College of 
+Engineering, Pune",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Pune,1631
+34,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Artificial Intelligence and Data Science,Pune,1681
+35,6276,"MKSSS's Cummins College of 
+Engineering for Women, Karvenagar, 
+Pune",Information Technology,Pune,1731
+36,6175,"Pimpri Chinchwad Education Trust, 
+Pimpri Chinchwad College of 
+Engineering, Pune",Computer Engineering,Pune,1781
+37,3185,"Vivekanand Education Society's 
+Institute of Technology",Computer Engineering,Mumbai,1831
+38,3184,"Fr. Conceicao Rodrigues College of 
+Engineering",Computer Engineering,Mumbai,1881
+39,3209,K J Somaiya Institute of Technology,Computer Engineering,Mumbai,1931
+40,6273,"Bansilal Ramnath Agarawal Charitable 
+Trust's Vishwakarma Institute of 
+Technology, Bibwewadi, Pune",Electronics and Telecommunication Engineering,Pune,1981
+41,3199,"Shri Vile Parle Kelvani Mandal's 
+Dwarkadas J. Sanghvi College of 
+Engineering",Electronics and Telecommunication Engineering,Mumbai,2031
+42,6274,"Pune Vidyarthi Griha's College of 
+Engineering
+ and Technology and G K Pate(Wani)",Computer Engineering,Pune,2081
+43,2008,"Government College of Engineering, 
+Aurangabad",Computer Science and Engineering,Aurangabad,2131
+44,3184,"Fr. Conceicao Rodrigues College of 
+Engineering",Artificial Intelligence and Data Science,Mumbai,2181
+45,3176,"Thakur College of Engineering and 
+Technology",Computer Engineering,Mumbai,2231
+46,3185,"Vivekanand Education Society's 
+Institute of Technology",Information Technology,Mumbai,2281
+47,3182,"Thadomal Shahani Engineering 
+College",Electronics and Telecommunication Engineering,Mumbai,2331
+48,3197,"Agnel Charities' FR. C. Rodrigues 
+Institute of Technology",Computer Engineering,Mumbai,2381
+49,3209,K J Somaiya Institute of Technology,Information Technology,Mumbai,2431
+50,1002,"Government College of Engineering, 
+Amravati",Computer Science and Engineering,Amravati,2481
+51,6272,"Dr. D. Y. Patil Pratishthan's D.Y.Patil 
+College of Engineering Akurdi, Pune",Computer Engineering,Pune,2532
+52,6005,Government College of Engineering,Information Technology,Karad,2582
+53,6274,"Pune Vidyarthi Griha's College of 
+Engineering
+ and Technology and G K Pate(Wani)",Information Technology,Pune,2632
+54,6175,"Pimpri Chinchwad Education Trust, 
+Pimpri Chinchwad College of 
+Engineering, Pune",Electronics and Telecommunication Engineering,Pune,2682
+55,3185,"Vivekanand Education Society's 
+Institute of Technology",Artificial Intelligence and Data Science,Mumbai,2732
+56,3139,Vidyalankar Institute of Technology,Computer Engineering,Mumbai,2782
+57,4302,"Gondia Education Society's 
+Manoharbhai Patel Institute Of 
+Engineering & Technology, Shahapur, 
+Bhandara",Computer Engineering,Bhandara,2832
+58,3197,"Agnel Charities' FR. C. Rodrigues 
+Institute of Technology",Information Technology,Mumbai,2882
+59,3209,K J Somaiya Institute of Technology,Artificial Intelligence and Data Science,Mumbai,2932
+60,6141,"Jaywant Shikshan Prasarak 
+Mandal's,Rajarshi Shahu College of 
+Engineering, Tathawade, Pune",Computer Engineering,Pune,2982
+61,6276,"MKSSS's Cummins College of 
+Engineering for Women, Karvenagar, 
+Pune",Electronics and Telecommunication Engineering,Pune,3032
+62,6822,"Pimpri Chinchwad Education Trust's 
+Pimpri Chinchwad College of 
+Enigeering and Research , Ravet",Computer Engineering,Pune,3082
+63,6278,"All India Shri Shivaji Memorial 
+Society's College of Engineering, Pune",Computer Engineering,Pune,3132
+64,3176,"Thakur College of Engineering and 
+Technology",Information Technology,Mumbai,3182
+65,3176,"Thakur College of Engineering and 
+Technology",Artificial Intelligence and Machine Learning,Mumbai,3232
+66,6274,"Pune Vidyarthi Griha's College of 
+Engineering
+ and Technology and G K Pate(Wani)",Artificial Intelligence and Data Science,Pune,3282
+67,6282,"All India Shri Shivaji Memorial 
+Society's Institute of Information 
+Technology, Pune",Information Technology,Pune,3332
+68,6282,"All India Shri Shivaji Memorial 
+Society's Institute of Information 
+Technology, Pune",Computer Engineering,Pune,3382
+69,3139,Vidyalankar Institute of Technology,Information Technology,Mumbai,3432
+70,2008,"Government College of Engineering, 
+Aurangabad",Information Technology,Aurangabad,3482
+71,3208,Don Bosco Institute of Technology,Computer Engineering,Mumbai,3532
+72,2020,"Shri Guru Gobind Singhji Institute of 
+Engineering and Technology, Nanded",Computer Science and Engineering,Nanded,3582
+73,6822,"Pimpri Chinchwad Education Trust's 
+Pimpri Chinchwad College of 
+Enigeering and Research , Ravet",Information Technology,Pune,3632
+74,3204,St. Francis Institute of Technology,Computer Engineering,Mumbai,3682
+75,3176,"Thakur College of Engineering and 
+Technology",Artificial Intelligence and Data Science,Mumbai,3732
+76,6272,"Dr. D. Y. Patil Pratishthan's D.Y.Patil 
+College of Engineering Akurdi, Pune",Information Technology,Pune,3783
+77,3214,"Xavier Institute Of Engineering C/O 
+Xavier Technical Institute",Computer Engineering,Mumbai,3833
+78,1002,"Government College of Engineering, 
+Amravati",Information Technology,Amravati,3883
+79,3211,S.I.E.S. Graduate School of Technology,Computer Engineering,Mumbai,3933
+80,6146,"MIT Academy of Engineering,Alandi, 
+Pune",Computer Engineering,Pune,3983
+81,3184,"Fr. Conceicao Rodrigues College of 
+Engineering",Electronics and Computer Science,Mumbai,4033
+82,3135,"Manjara Charitable Trust's Rajiv 
+Gandhi Institute of Technology",Computer Engineering,Mumbai,4083
+83,6141,"Jaywant Shikshan Prasarak 
+Mandal's,Rajarshi Shahu College of 
+Engineering, Tathawade, Pune",Information Technology,Pune,4133
+84,3185,"Vivekanand Education Society's 
+Institute of Technology",Electronics and Computer Science,Mumbai,4183
+85,6156,"Marathwada Mitra Mandal's College 
+of Engineering, Karvenagar, Pune",Computer Engineering,Pune,4233
+86,4025,"Government College of Engineering,  
+Nagpur",Computer Science & Engineering,Nagpur,4283
+87,6004,"Government College of Engineering & 
+Research",Computer Engineering,Ambegaon,4333
+88,3208,Don Bosco Institute of Technology,Information Technology,Mumbai,4383
+89,6005,Government College of Engineering,Electronics and Telecommunication Engineering,Karad,4433
+90,2020,"Shri Guru Gobind Singhji Institute of 
+Engineering and Technology, Nanded",Information Technology,Nanded,4483
+91,3204,St. Francis Institute of Technology,Information Technology,Mumbai,4533
+92,3211,S.I.E.S. Graduate School of Technology,Information Technology,Mumbai,4583
+93,6146,"MIT Academy of Engineering,Alandi, 
+Pune",Computer Engineering (Software Engineering,Pune,4633
+94,3176,"Thakur College of Engineering and 
+Technology",Computer Science and Engineering(Cyber Security),Mumbai,4683
+95,3214,"Xavier Institute Of Engineering C/O 
+Xavier Technical Institute",Information Technology,Mumbai,4733
+96,6754,"International Institute of Information 
+Technology (I²IT), Pune.",Computer Engineering,Pune,4783
+97,6207,"Dr. D. Y. Patil Unitech Society's Dr. D. 
+Y. Patil Institute of Technology, 
+Pimpri, Pune",Computer Engineering,Pune,4833
+98,3176,"Thakur College of Engineering and 
+Technology",Internet of Things (IoT),Mumbai,4883
+99,3135,"Manjara Charitable Trust's Rajiv 
+Gandhi Institute of Technology",Information Technology,Mumbai,4933
+100,3189,"Bharati Vidyapeeth College of 
+Engineering",Computer Engineering,Mumbai,4983
+101,5121,"K. K. Wagh Institute of Engineering 
+Education and Research, Nashik",Computer Engineering,Nashik,5034
+102,3135,"Manjara Charitable Trust's Rajiv 
+Gandhi Institute of Technology",Artificial Intelligence and Data Science,Mumbai,5084
+103,6267,"Kolhapur Institute of Technology's 
+College of Engineering(Autonomous), 
+Kolhapur",Computer Science and Engineering,kolhapur,5134
+104,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Computer Engineering,Pune,5184
+105,6282,"All India Shri Shivaji Memorial 
+Society's Institute of Information 
+Technology, Pune",Artificial Intelligence and Data Science,Pune,5234
+106,6207,"Dr. D. Y. Patil Unitech Society's Dr. D. 
+Y. Patil Institute of Technology, 
+Pimpri, Pune",Information Technology,Pune,5284
+107,3211,S.I.E.S. Graduate School of Technology,Artificial Intelligence and Data Science,Mumbai,5334
+108,6272,"Dr. D. Y. Patil Pratishthan's D.Y.Patil 
+College of Engineering Akurdi, Pune",Artificial Intelligence and Data Science,Pune,5384
+109,3185,"Vivekanand Education Society's 
+Institute of Technology",Electronics and Telecommunication Engineering,Mumbai,5434
+110,3209,K J Somaiya Institute of Technology,Electronics and Telecommunication Engineering,Mumbai,5484
+111,6177,"Sinhgad College of Engineering, 
+Vadgaon (BK), Pune",Computer Engineering,Pune,5534
+112,3203,Atharva College of Engineering,Computer Engineering,Mumbai,5584
+113,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Computer Science,Nagpur,5634
+114,6754,"International Institute of Information 
+Technology (I²IT), Pune.",Information Technology,Pune,5684
+115,3207,"Mahatma Education Society's Pillai 
+College of Engineering",Computer Engineering,Mumbai,5734
+116,6796,"Bharati Vidyapeeth's College of 
+Engineering, Lavale",Computer Engineering,Pune,5784
+117,1101,"Shri Sant Gajanan Maharaj College of 
+Engineering,Shegaon",Computer Science and Engineering,Shegaon,5834
+118,3176,"Thakur College of Engineering and 
+Technology",Electronics and Computer Science,Mumbai,5884
+119,3189,"Bharati Vidyapeeth College of 
+Engineering",Information Technology,Mumbai,5934
+120,3211,S.I.E.S. Graduate School of Technology,Artificial Intelligence and Machine Learning,Mumbai,5984
+121,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Computer Engineering,Mumbai,6034
+122,6214,"K. E. Society's Rajarambapu Institute 
+of Technology, Walwa, Sangli",Computer Engineering,Sangli,6084
+123,6822,"Pimpri Chinchwad Education Trust's 
+Pimpri Chinchwad College of 
+Enigeering and Research , Ravet",Electronics and Telecommunication Engineering,Pune,6134
+124,2008,"Government College of Engineering, 
+Aurangabad",Electronics and Telecommunication Engineering,Aurangabad,6184
+125,6156,"Marathwada Mitra Mandal's College 
+of Engineering, Karvenagar, Pune",Information Technology,Pune,6234
+126,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Information Technology,Pune,6285
+127,3190,Terna Engineering College,Computer Engineering,Mumbai,6335
+128,1002,"Government College of Engineering, 
+Amravati",Electronics and Telecommunication Engineering,Amravati,6385
+129,3194,"Vidyavardhini's College of Engineering 
+and Technology",Computer Engineering,Mumbai,6435
+130,6281,"Modern Education Society's College of 
+Engineering,",Computer Engineering,Pune,6485
+131,3211,S.I.E.S. Graduate School of Technology,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,6535
+132,6285,"Bharati Vidyapeet's college of 
+Engineering for Women, Katraj , 
+Dhankawadi, Pune",Computer Engineering,Pune,6585
+133,6207,"Dr. D. Y. Patil Unitech Society's Dr. D. 
+Y. Patil Institute of Technology, 
+Pimpri, Pune",Artificial Intelligence and Data Science,Pune,6635
+134,3187,"N.Y.S.S.'s Datta Meghe College of 
+Engineering",Computer Engineering,Mumbai,6685
+135,6267,"Kolhapur Institute of Technology's 
+College of Engineering(Autonomous), 
+Kolhapur",Computer Science and Engineering(Artificial Intelligence and Machine Learning),kolhapur,6735
+136,6214,"K. E. Society's Rajarambapu Institute 
+of Technology, Walwa, Sangli",Computer Science and Information Technology,Sangli,6785
+137,3197,"Agnel Charities' FR. C. Rodrigues 
+Institute of Technology",Electronics and Telecommunication Engineering,Mumbai,6835
+138,3139,Vidyalankar Institute of Technology,Electronics and Computer Science,Mumbai,6885
+139,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Information Technology,Nagpur,6935
+140,3203,Atharva College of Engineering,Information Technology,Mumbai,6985
+141,5121,"K. K. Wagh Institute of Engineering 
+Education and Research, Nashik",Information Technology,Nashik,7035
+142,3214,"Xavier Institute Of Engineering C/O 
+Xavier Technical Institute",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,7085
+143,6274,"Pune Vidyarthi Griha's College of 
+Engineering
+ and Technology and G K Pate(Wani)",Electronics and Telecommunication Engineering,Pune,7135
+144,5004,"Government College of Engineering, 
+Jalgaon",Computer Engineering,Jalgaon,7185
+145,3176,"Thakur College of Engineering and 
+Technology",Electronics and Telecommunication Engineering,Mumbai,7235
+146,6177,"Sinhgad College of Engineering, 
+Vadgaon (BK), Pune",Information Technology,Pune,7285
+147,3190,Terna Engineering College,Artificial Intelligence and Data Science,Mumbai,7335
+148,6156,"Marathwada Mitra Mandal's College 
+of Engineering, Karvenagar, Pune",Artificial Intelligence and Data Science,Pune,7385
+149,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Artificial Intelligence and Data Science,Pune,7435
+150,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Computer Science(Artificial Intelligence and Machine Learning),Nagpur,7485
+151,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Computer Engineering,Pune,7536
+152,6267,"Kolhapur Institute of Technology's 
+College of Engineering(Autonomous), 
+Kolhapur",Computer Science and Engineering(Data Science),kolhapur,7586
+153,3201,"Rizvi Education Society's Rizvi College 
+of Engineering",Computer Engineering,Mumbai,7636
+154,3207,"Mahatma Education Society's Pillai 
+College of Engineering",Information Technology,Mumbai,7686
+155,6278,"All India Shri Shivaji Memorial 
+Society's College of Engineering, Pune",Electronics and Telecommunication Engineering,Pune,7736
+156,3194,"Vidyavardhini's College of Engineering 
+and Technology",Information Technology,Mumbai,7786
+157,6284,"Vidya Pratisthan's Kamalnayan bajaj 
+Institute of Engineering and 
+Technolgy, 
+Baramati Dist. Pune",Computer Engineering,Pune,7836
+158,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Information Technology,Mumbai,7886
+159,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Artificial Intelligence and Machine Learning,Pune,7936
+160,1101,"Shri Sant Gajanan Maharaj College of 
+Engineering,Shegaon",Information Technology,Shegaon,7986
+161,2020,"Shri Guru Gobind Singhji Institute of 
+Engineering and Technology, Nanded",Electronics and Telecommunication Engineering,Nanded,8036
+162,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Artificial Intelligence and Data Science,Mumbai,8086
+163,3190,Terna Engineering College,Information Technology,Mumbai,8136
+164,3194,"Vidyavardhini's College of Engineering 
+and Technology",Artificial Intelligence and Data Science,Mumbai,8186
+165,3475,"A.P. Shah Institute of Technology, 
+Thane, Mumbai",Computer Engineering,Mumbai,8236
+166,6214,"K. E. Society's Rajarambapu Institute 
+of Technology, Walwa, Sangli",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Sangli,8286
+167,6145,"JSPM'S Jaywantrao Sawant College of 
+Engineering,Pune",Computer Engineering,Pune,8336
+168,6141,"Jaywant Shikshan Prasarak 
+Mandal's,Rajarshi Shahu College of 
+Engineering, Tathawade, Pune",Electronics and Telecommunication Engineering,Pune,8386
+169,6178,"Sinhgad Technical Education Society's 
+Smt. Kashibai Navale College of 
+Engineering,Vadgaon,Pune",Computer Engineering,Pune,8436
+170,6285,"Bharati Vidyapeet's college of 
+Engineering for Women, Katraj , 
+Dhankawadi, Pune",Information Technology,Pune,8486
+171,4025,"Government College of Engineering,  
+Nagpur",Electronics and Telecommunication Engineering,Nagpur,8536
+172,3139,Vidyalankar Institute of Technology,Electronics and Telecommunication Engineering,Mumbai,8586
+173,6222,"Dattajirao Kadam Technical Education 
+Society's Textile & Engineering 
+Institute, Ichalkaranji",Computer Science and Engineering,Ichalkaranji,8636
+174,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Computer Technology,Nagpur,8686
+175,6272,"Dr. D. Y. Patil Pratishthan's D.Y.Patil 
+College of Engineering Akurdi, Pune",Electronics and Telecommunication Engineering,Pune,8736
+176,6282,"All India Shri Shivaji Memorial 
+Society's Institute of Information 
+Technology, Pune",Electronics and Telecommunication Engineering,Pune,8787
+177,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Computer Science & Engineering,Nagpur,8837
+178,3188,"Vasantdada Patil Pratishthan's College 
+Of Engineering and Visual Arts",Computer Engineering,Mumbai,8887
+179,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Artificial Intelligence and Data Science,Nagpur,8937
+180,6754,"International Institute of Information 
+Technology (I²IT), Pune.",Electronics and Telecommunication Engineering,Pune,8987
+181,3035,"Usha Mittal Institute of Technology 
+SNDT Women's University",Computer Engineering,Mumbai,9037
+182,3187,"N.Y.S.S.'s Datta Meghe College of 
+Engineering",Information Technology,Mumbai,9087
+183,5162,"Amrutvahini Sheti & Shikshan Vikas 
+Sanstha's Amrutvahini College of 
+Engineering",Computer Engineering,Sangamner,9137
+184,5121,"K. K. Wagh Institute of Engineering 
+Education and Research, Nashik",Artificial Intelligence and Data Science,Nashik,9187
+185,5160,"Sanjivani Rural Education Society's 
+Sanjivani College of Engineering",Computer Engineering,Kopargaon,9237
+186,3196,Lokmanya Tilak College of Engineering,Computer Engineering,Mumbai,9287
+187,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Information Technology,Pune,9337
+188,3211,S.I.E.S. Graduate School of Technology,Electronics and Computer Science,Mumbai,9387
+189,6178,"Sinhgad Technical Education Society's 
+Smt. Kashibai Navale College of 
+Engineering,Vadgaon,Pune",Information Technology,Pune,9437
+190,6265,"Walchand Institute of Technology, 
+Solapur",Computer Science and Engineering,Solapur,9487
+191,6146,"MIT Academy of Engineering,Alandi, 
+Pune",Electronics and Telecommunication Engineering,Pune,9537
+192,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Electronics and Computer Engineering,Pune,9587
+193,6036,Government College of Engineering,Computer Science and Engineering,Kolhapur,9637
+194,6284,"Vidya Pratisthan's Kamalnayan bajaj 
+Institute of Engineering and 
+Technolgy, 
+Baramati Dist. Pune",Information Technology,Pune,9687
+195,6310,"Nutan Maharashtra Vidya Prasarak 
+Mandal, Nutan Maharashtra Institute 
+of 
+Engineering &Technology, Talegaon 
+station, Pune",Computer Engineering,Pune,9737
+196,3201,"Rizvi Education Society's Rizvi College 
+of Engineering",Artificial Intelligence and Data Science,Mumbai,9787
+197,3192,"Smt. Indira Gandhi College of 
+Engineering",Computer Engineering,Mumbai,9837
+198,6145,"JSPM'S Jaywantrao Sawant College of 
+Engineering,Pune",Information Technology,Pune,9887
+199,3183,"AnjumanIIslam's M.H. Saboo Siddik 
+College of Engineering",Computer Engineering,Mumbai,9937
+200,3146,"Jawahar Education Society's 
+Annasaheb Chudaman Patil College of 
+Engineering",Computer Engineering,Mumbai,9987
+201,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Computer Science(IoT),Nagpur,10038
+202,6755,"JSPM Narhe Technical Campus, Pune",Computer Engineering,Pune,10088
+203,3187,"N.Y.S.S.'s Datta Meghe College of 
+Engineering",Artificial Intelligence and Data Science,Mumbai,10138
+204,3211,S.I.E.S. Graduate School of Technology,Electronics and Telecommunication Engineering,Mumbai,10188
+205,6310,"Nutan Maharashtra Vidya Prasarak 
+Mandal, Nutan Maharashtra Institute 
+of 
+Engineering &Technology, Talegaon 
+station, Pune",Information Technology,Pune,10238
+206,3194,"Vidyavardhini's College of Engineering 
+and Technology",Computer Science and Engineering(Data Science),Mumbai,10288
+207,6772,"NBN Sinhgad Technical Institues 
+Campus",Computer Engineering,Pune,10338
+208,6004,"Government College of Engineering & 
+Research",Electronics and Telecommunication Engineering,Ambegaon,10388
+209,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Cyber Security,Mumbai,10438
+210,1105,"Prof. Ram Meghe Institute of 
+Technology & Research, Amravati",Computer Science and Engineering,Amravati,10488
+211,6207,"Dr. D. Y. Patil Unitech Society's Dr. D. 
+Y. Patil Institute of Technology, 
+Pimpri, Pune",Electronics and Telecommunication Engineering,Pune,10538
+212,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Pune,10588
+213,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Computer Engineering,Nagpur,10638
+214,5108,"Maratha Vidya Prasarak Samaj's 
+Karmaveer Adv. Baburao Ganpatrao 
+Thakare College Of Engineering, 
+Nashik",Computer Engineering,Nashik,10688
+215,3188,"Vasantdada Patil Pratishthan's College 
+Of Engineering and Visual Arts",Artificial Intelligence and Data Science,Mumbai,10738
+216,3423,"Shree L.R. Tiwari College of 
+Engineering , Mira Road, Mumbai",Computer Engineering,Mumbai,10788
+217,3154,"Saraswati Education Society's 
+Saraswati College of Engineering",Computer Engineering,Mumbai,10838
+218,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Computer Science and Engineering(Data Science),Pune,10888
+219,3188,"Vasantdada Patil Pratishthan's College 
+Of Engineering and Visual Arts",Information Technology,Mumbai,10938
+220,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Information Technology,Nagpur,10988
+221,3475,"A.P. Shah Institute of Technology, 
+Thane, Mumbai",Information Technology,Mumbai,11038
+222,3033,"Dr. Babasaheb Ambedkar 
+Technological University",Computer Engineering,Lonere,11088
+223,6732,"Ajeenkya DY Patil School of 
+Engineering, Lohegaon, Pune",Computer Engineering,Pune,11138
+224,6772,"NBN Sinhgad Technical Institues 
+Campus",Information Technology,Pune,11188
+225,3204,St. Francis Institute of Technology,Electronics and Telecommunication Engineering,Mumbai,11238
+226,6182,"Sinhgad  Technical  Education  Society 
+,Sinhgad   Institute of Technology and 
+Science,Narhe",Computer Engineering,Pune,11289
+227,3210,"Excelsior Education Society's K.C. 
+College of Engineering and 
+Management Studies and Research",Computer Engineering,Mumbai,11339
+228,6145,"JSPM'S Jaywantrao Sawant College of 
+Engineering,Pune",Artificial Intelligence and Data Science,Pune,11389
+229,3203,Atharva College of Engineering,Electronics and Computer Science,Mumbai,11439
+230,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Computer Science and Engineering(Artificial Intelligence),Pune,11489
+231,6139,"Progressive Education Society's 
+Modern College of Engineering, Pune",Electronics and Telecommunication Engineering,Pune,11539
+232,6284,"Vidya Pratisthan's Kamalnayan bajaj 
+Institute of Engineering and 
+Technolgy, 
+Baramati Dist. Pune",Artificial Intelligence and Data Science,Pune,11589
+233,6122,"TSSMS's Pd. Vasantdada Patil Institute 
+of Technology",Computer Engineering,Pune,11639
+234,3175,"M.G.M.'s College of Engineering and 
+Technology",Computer Engineering,Mumbai,11689
+235,6250,"D.Y. Patil College of Engineering and 
+Technology, Kolhapur",Computer Science and Engineering,kolhapur,11739
+236,6179,"Indira College of Engineering & 
+Management, Pune",Computer Engineering,Pune,11789
+237,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Computer Science & Engineering ( Artificial Intelligence & Machine Learning),Nagpur,11839
+238,6265,"Walchand Institute of Technology, 
+Solapur",Information Technology,Solapur,11889
+239,3196,Lokmanya Tilak College of Engineering,Computer Science and Engineering(Data Science),Mumbai,11939
+240,3183,"AnjumanIIslam's M.H. Saboo Siddik 
+College of Engineering",Information Technology,Mumbai,11989
+241,3423,"Shree L.R. Tiwari College of 
+Engineering , Mira Road, Mumbai",Information Technology,Mumbai,12039
+242,6156,"Marathwada Mitra Mandal's College 
+of Engineering, Karvenagar, Pune",Electronics and Telecommunication Engineering,Pune,12089
+243,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Information Technology,Nagpur,12139
+244,6267,"Kolhapur Institute of Technology's 
+College of Engineering(Autonomous), 
+Kolhapur",Electronics and Telecommunication Engineering,kolhapur,12189
+245,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Computer Science & Engineering ( Artificial Intelligence ),Nagpur,12239
+246,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Computer Science(Data Science),Nagpur,12289
+247,3214,"Xavier Institute Of Engineering C/O 
+Xavier Technical Institute",Electronics and Telecommunication Engineering,Mumbai,12339
+248,5172,R. C. Patel Institute of Technology,Computer Engineering,Shirpur,12389
+249,4167,"Yeshwantrao Chavan College of 
+Engineering,Wanadongri, Nagpu",Electronics and Telecommunication Engineering,Nagpur,12439
+250,6203,"Marathwada Mitra Mandal's Institute 
+of Technology, Lohgaon, Pune",Computer Engineering,Pune,12489
+251,5162,"Amrutvahini Sheti & Shikshan Vikas 
+Sanstha's Amrutvahini College of 
+Engineering",Information Technology,Sangamner,12540
+252,3154,"Saraswati Education Society's 
+Saraswati College of Engineering",Information Technology,Mumbai,12590
+253,3196,Lokmanya Tilak College of Engineering,Computer Science and Engineering(Artificial Intelligence and Machine Learning),Mumbai,12640
+254,6222,"Dattajirao Kadam Technical Education 
+Society's Textile & Engineering 
+Institute, Ichalkaranji",Artificial Intelligence and Data Science,Ichalkaranji,12690
+255,3471,"New Horizon Institute of Technology 
+& Management, Thane, Mumbai",Computer Engineering,Mumbai,12740
+256,5160,"Sanjivani Rural Education Society's 
+Sanjivani College of Engineering",Information Technology,Kopargaon,12790
+257,6187,"Sinhgad Academy of Engineering, 
+Kondhwa (BK) KondhwaSaswad Road, 
+Pune",Computer Engineering,Pune,12840
+258,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Computer Science and Engineering,Nagpur,12890
+259,5108,"Maratha Vidya Prasarak Samaj's 
+Karmaveer Adv. Baburao Ganpatrao 
+Thakare College Of Engineering, 
+Nashik",Information Technology,Nashik,12940
+260,3208,Don Bosco Institute of Technology,Electronics and Telecommunication Engineering,Mumbai,12990
+261,1012,"Government College of 
+Engineering,Yavatmal",Computer Engineering,Yavatmal,13040
+262,3475,"A.P. Shah Institute of Technology, 
+Thane, Mumbai",Computer Science & Engineering ( Data Science),Mumbai,13090
+263,6182,"Sinhgad  Technical  Education  Society 
+,Sinhgad   Institute of Technology and 
+Science,Narhe",Information Technology,Pune,13140
+264,6311,"Jayawant Shikshan Prasarak Mandal, 
+Bhivarabai Sawant Institute of 
+Technology & 
+Research, Wagholi",Computer Engineering,Pune,13190
+265,6755,"JSPM Narhe Technical Campus, Pune",Artificial Intelligence and Data Science,Pune,13240
+266,6283,"Annasaheb Dange College of 
+Engineering and Technology, Ashta, 
+Sangli",Computer Science and Engineering,Sangli,13290
+267,3175,"M.G.M.'s College of Engineering and 
+Technology",Information Technology,Mumbai,13340
+268,3035,"Usha Mittal Institute of Technology 
+SNDT Women's University",Information Technology,Mumbai,13390
+269,3475,"A.P. Shah Institute of Technology, 
+Thane, Mumbai",Computer Science & Engineering ( Artificial Intelligence & Machine Learning),Mumbai,13440
+270,6222,"Dattajirao Kadam Technical Education 
+Society's Textile & Engineering 
+Institute, Ichalkaranji",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Ichalkaranji,13490
+271,3200,"Hope Foundation and research 
+center's Finolex Academy of 
+Management and Technology",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Ratnagiri,13540
+272,6214,"K. E. Society's Rajarambapu Institute 
+of Technology, Walwa, Sangli",Electronics and Telecommunication Engineering,Sangli,13590
+273,4123,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sanstha, Priyadarshani 
+College of Engineering, Nagpur",Computer Science and Engineering,Nagpur,13640
+274,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Computer Science and Engineering (Cyber Security),Pune,13690
+275,3154,"Saraswati Education Society's 
+Saraswati College of Engineering",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Mumbai,13740
+276,6643,"S K N Sinhgad College of Engineering, 
+Korti Tal. Pandharpur Dist Solapur",Computer Science and Engineering,Pandharpur,13791
+277,4004,"Government College of Engineering , 
+Chandrapur",Computer Science & Engineering,Chandrapur,13841
+278,5449,"Shri Vile Parle Kelavani Mandal's 
+Institute of Technology",Computer Engineering,Dhule,13891
+279,3146,"Jawahar Education Society's 
+Annasaheb Chudaman Patil College of 
+Engineering",Information Technology,Mumbai,13941
+280,3207,"Mahatma Education Society's Pillai 
+College of Engineering",Electronics and Computer Science,Mumbai,13991
+281,3210,"Excelsior Education Society's K.C. 
+College of Engineering and 
+Management Studies and Research",Information Technology,Mumbai,14041
+282,6179,"Indira College of Engineering & 
+Management, Pune",Artificial Intelligence and Data Science,Pune,14091
+283,3192,"Smt. Indira Gandhi College of 
+Engineering",Artificial Intelligence and Data Science,Mumbai,14141
+284,1105,"Prof. Ram Meghe Institute of 
+Technology & Research, Amravati",Information Technology,Amravati,14191
+285,6769,"Rasiklal M. Dhariwal Singhgad 
+Technical Institutes Campus",Computer Engineering,Pune,14241
+286,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Information Technology,Nagpur,14291
+287,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Artificial Intelligence,Nagpur,14341
+288,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Data Science,Nagpur,14391
+289,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Computer Science and Engineering (Cyber Security),Nagpur,14441
+290,6281,"Modern Education Society's College of 
+Engineering,",Electronics and Telecommunication Engineering,Pune,14491
+291,3175,"M.G.M.'s College of Engineering and 
+Technology",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Mumbai,14541
+292,5151,"MET Bhujbal Knowledge City MET 
+League's Engineering College, Adgaon",Computer Engineering,Nashik,14591
+293,6187,"Sinhgad Academy of Engineering, 
+Kondhwa (BK) KondhwaSaswad Road, 
+Pune",Information Technology,Pune,14641
+294,6250,"D.Y. Patil College of Engineering and 
+Technology, Kolhapur",Computer Science and Engineering(Artificial Intelligence and Machine Learning),kolhapur,14691
+295,3135,"Manjara Charitable Trust's Rajiv 
+Gandhi Institute of Technology",Electronics and Telecommunication Engineering,Mumbai,14741
+296,1101,"Shri Sant Gajanan Maharaj College of 
+Engineering,Shegaon",Electronics and Telecommunication Engineering,Shegaon,14791
+297,3183,"AnjumanIIslam's M.H. Saboo Siddik 
+College of Engineering",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Mumbai,14841
+298,6185,Sinhgad Institute of Technology,Computer Engineering,Pune,14891
+299,2114,"Deogiri Institute of Engineering and 
+Management Studies, Aurangabad",Computer Science and Engineering,Aurangabad,14941
+300,5108,"Maratha Vidya Prasarak Samaj's 
+Karmaveer Adv. Baburao Ganpatrao 
+Thakare College Of Engineering, 
+Nashik",Artificial Intelligence and Data Science,Nashik,14991
+301,6203,"Marathwada Mitra Mandal's Institute 
+of Technology, Lohgaon, Pune",Artificial Intelligence and Data Science,Pune,15042
+302,3218,"Aldel Education Trust's St. John 
+College of Engineering & 
+Management",Computer Engineering,Mumbai,15092
+303,3193,"Shivajirao S. Jondhale College of 
+Engineering",Computer Engineering,Mumbai,15142
+304,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Artificial Intelligence,Nagpur,15192
+305,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Computer Science & Engineering (IOT),Nagpur,15242
+306,6298,"Zeal Education Society's Zeal College 
+of Engineering & Reserch, Narhe, 
+Pune",Computer Engineering,Pune,15292
+307,6220,"Shri Vithal Education and Research 
+Institute's College of Engineering, 
+Pandharpur",Computer Science and Engineering,Pandharpur,15342
+308,6622,ISBM College of Engineering Pune,Computer Engineering,Pune,15392
+309,3196,Lokmanya Tilak College of Engineering,Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,15442
+310,6307,"Dhole Patil Education Society, Dhole 
+Patil College of Engineering, Wagholi,
+ Tal. Haveli",Computer Engineering,Pune,15492
+311,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Computer Science(Cyber Security),Nagpur,15542
+312,4116,"Ankush Shikshan Sanstha's 
+G.H.Raisoni College of Engineering, 
+Nagpur",Electronics and Telecommunication Engineering,Nagpur,15592
+313,4649,"Bajaj Institute of Technology, Wardha, 
+Nagpur",Computer Engineering,Nagpur,15642
+314,5162,"Amrutvahini Sheti & Shikshan Vikas 
+Sanstha's Amrutvahini College of 
+Engineering",Artificial Intelligence and Data Science,Sangamner,15692
+315,3192,"Smt. Indira Gandhi College of 
+Engineering",Computer Science & Engineering ( Artificial Intelligence & Machine Learning),Mumbai,15742
+316,5139,"Pravara Rural College of Engineering, 
+Loni, Pravaranagar",Computer Engineering,Ahmednagar,15792
+317,3223,"Mahatma Education Society's Pillai 
+HOC College of Engineering & 
+Technology , Tal. Khalapur. Dist. 
+Raigad",Computer Engineering,Raigad,15842
+318,6634,"KJEI's Trinity Academy of Engineering, 
+Pune, Pune",Computer Engineering,Pune,15892
+319,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Electronics and Computer Science,Mumbai,15942
+320,3471,"New Horizon Institute of Technology 
+& Management, Thane, Mumbai",Artificial Intelligence and Data Science,Mumbai,15992
+321,6649,"TSSM's Bhivarabai Sawant College of 
+Engineering and Research, Narhe, 
+Pune",Computer Engineering,Pune,16042
+322,6177,"Sinhgad College of Engineering, 
+Vadgaon (BK), Pune",Electronics and Telecommunication Engineering,Pune,16092
+323,6769,"Rasiklal M. Dhariwal Singhgad 
+Technical Institutes Campus",Information Technology,Pune,16142
+324,6311,"Jayawant Shikshan Prasarak Mandal, 
+Bhivarabai Sawant Institute of 
+Technology & 
+Research, Wagholi",Information Technology,Pune,16192
+325,3148,"Mahavir Education Trust's Shah & 
+Anchor Kutchhi Engineering College",Electronics and Telecommunication Engineering,Mumbai,16242
+326,6310,"Nutan Maharashtra Vidya Prasarak 
+Mandal, Nutan Maharashtra Institute 
+of 
+Engineering &Technology, Talegaon 
+station, Pune",Electronics and Telecommunication Engineering,Pune,16293
+327,5172,R. C. Patel Institute of Technology,Computer Science and Engineering (Data Science),Shirpur,16343
+328,3146,"Jawahar Education Society's 
+Annasaheb Chudaman Patil College of 
+Engineering",Artificial Intelligence and Data Science,Mumbai,16393
+329,3460,"Universal College of Engineering, 
+Kaman Dist. Palghar, Mumbai",Computer Engineering,Mumbai,16443
+330,6732,"Ajeenkya DY Patil School of 
+Engineering, Lohegaon, Pune",Artificial Intelligence and Data Science,Pune,16493
+331,6275,"Shiavnagar Vidya Prasarak Mandal's 
+College of
+Engineering,Malegaon  Baramati",Computer Engineering,Pune,16543
+332,5151,"MET Bhujbal Knowledge City MET 
+League's Engineering College, Adgaon",Information Technology,Nashik,16593
+333,5172,R. C. Patel Institute of Technology,Artificial Intelligence and Machine Learning,Shirpur,16643
+334,6122,"TSSMS's Pd. Vasantdada Patil Institute 
+of Technology",Computer Science and Engineering(Data Science),Pune,16693
+335,6794,"Anantrao College of Engineering & 
+Research",Computer Engineering,Pune,16743
+336,6622,ISBM College of Engineering Pune,Artificial Intelligence and Data Science,Pune,16793
+337,3154,"Saraswati Education Society's 
+Saraswati College of Engineering",Computer Science and Engineering(Data Science),Mumbai,16843
+338,3183,"AnjumanIIslam's M.H. Saboo Siddik 
+College of Engineering",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,16893
+339,3033,"Dr. Babasaheb Ambedkar 
+Technological University",Information Technology,Lonere,16943
+340,5151,"MET Bhujbal Knowledge City MET 
+League's Engineering College, Adgaon",Artificial Intelligence and Data Science,Nashik,16993
+341,3201,"Rizvi Education Society's Rizvi College 
+of Engineering",Electronics and Computer Science,Mumbai,17043
+342,6298,"Zeal Education Society's Zeal College 
+of Engineering & Reserch, Narhe, 
+Pune",Artificial Intelligence and Data Science,Pune,17093
+343,5004,"Government College of Engineering, 
+Jalgaon",Electronics and Telecommunication Engineering,Jalgaon,17143
+344,4137,"Sir Shantilal Badjate Charitable Trust's 
+S. B. Jain Institute of technology, 
+Management & Research, Nagpur",Computer Science and Engineering,Nagpur,17193
+345,6185,Sinhgad Institute of Technology,Information Technology,Pune,17243
+346,6307,"Dhole Patil Education Society, Dhole 
+Patil College of Engineering, Wagholi,
+ Tal. Haveli",Information Technology,Pune,17293
+347,1114,"Sipna Shikshan Prasarak Mandal 
+College of Engineering & Technology, 
+Amravati",Computer Science and Engineering,Amravati,17343
+348,4123,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sanstha, Priyadarshani 
+College of Engineering, Nagpur",Information Technology,Nagpur,17393
+349,3035,"Usha Mittal Institute of Technology 
+SNDT Women's University",Computer Science and Technology,Mumbai,17443
+350,3221,"Late Shri. Vishnu Waman Thakur 
+Charitable Trust, Viva Institute of 
+Technology",Computer Engineering,Mumbai,17493
+351,6206,"Pune District Education Association's 
+College of Engineering, Pune",Computer Engineering,Pune,17544
+352,6268,"Tatyasaheb Kore Institute of 
+Engineering and Technology, 
+Warananagar",Computer Science and Engineering,Warananagar,17594
+353,5160,"Sanjivani Rural Education Society's 
+Sanjivani College of Engineering",Electronics and Computer Engineering,Kopargaon,17644
+354,5449,"Shri Vile Parle Kelavani Mandal's 
+Institute of Technology",Information Technology,Dhule,17694
+355,6283,"Annasaheb Dange College of 
+Engineering and Technology, Ashta, 
+Sangli",Artificial Intelligence and Data Science,Sangli,17744
+356,6288,"Bharati Vidyapeet's college of 
+Engineering , Kolhapur",Computer Science and Engineering,Kolhapur,17794
+357,3218,"Aldel Education Trust's St. John 
+College of Engineering & 
+Management",Information Technology,Mumbai,17844
+358,3277,"Shree Shankar Narayan Education 
+Trust ,Pravin Patil College of Diploma 
+Engg. & Technology, Bhayinder, 
+Mumbai (E) Western Rly",Computer Engineering,Mumbai,17894
+359,6298,"Zeal Education Society's Zeal College 
+of Engineering & Reserch, Narhe, 
+Pune",Information Technology,Pune,17944
+360,5109,"Sandip Foundation, Sandip Institute of 
+Technology and Research Centre, 
+Mahiravani, Nashik",Computer Engineering,Nashik,17994
+361,6179,"Indira College of Engineering & 
+Management, Pune",Electronics and Telecommunication Engineering,Pune,18044
+362,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Computer Science and Engineering(Cyber Security),Nagpur,18094
+363,6796,"Bharati Vidyapeeth's College of 
+Engineering, Lavale",Electronics and Telecommunication Engineering,Pune,18144
+364,6206,"Pune District Education Association's 
+College of Engineering, Pune",Information Technology,Pune,18194
+365,3147,"Saraswati Education Society, Yadavrao 
+Tasgaonkar Institute of Engineering & 
+Technology",Computer Engineering,Mumbai,18244
+366,3193,"Shivajirao S. Jondhale College of 
+Engineering",Information Technology,Mumbai,18294
+367,6325,"Alard Charitable Trust's Alard College 
+of Engineering
+and Management, Pune",Computer Engineering,Pune,18344
+368,6155,"G.H.Raisoni College of Engineering & 
+Management, Wagholi, Pune",Electronics and Telecommunication Engineering,Pune,18394
+369,1105,"Prof. Ram Meghe Institute of 
+Technology & Research, Amravati",Artificial Intelligence and Data Science,Amravati,18444
+370,3192,"Smt. Indira Gandhi College of 
+Engineering",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,18494
+371,5161,"Dr. Vithalrao Vikhe Patil College of 
+Engineering",Computer Engineering,Ahmednagar,18544
+372,3460,"Universal College of Engineering, 
+Kaman Dist. Palghar, Mumbai",Information Technology,Mumbai,18594
+373,3193,"Shivajirao S. Jondhale College of 
+Engineering",Artificial Intelligence and Machine Learning,Mumbai,18644
+374,6223,"Pradnya Niketan Education Society's 
+Nagesh Karajagi Orchid College of 
+Engineering & Technology, Solapur",Computer Science and Engineering,Solapur,18694
+375,2113,"G. S. Mandal's Maharashtra Institute 
+of Technology, Aurangabad",Computer Science and Engineering,Aurangabad,18744
+376,1128,"Prof Ram Meghe College of 
+Engineering and Management, 
+Badnera",Computer Science and Engineering,Badnera,18795
+377,3203,Atharva College of Engineering,Electronics and Telecommunication Engineering,Mumbai,18845
+378,5181,"Gokhale Education Society's, R.H. 
+Sapat College of Engineering, 
+Management Studies and Research",Computer Engineering,Nashik,18895
+379,6036,Government College of Engineering,Artificial Intelligence and Data Science,Kolhapur,18945
+380,3223,"Mahatma Education Society's Pillai 
+HOC College of Engineering & 
+Technology , Tal. Khalapur. Dist. 
+Raigad",Information Technology,Raigad,18995
+381,6265,"Walchand Institute of Technology, 
+Solapur",Electronics and Computer Engineering,Solapur,19045
+382,6794,"Anantrao College of Engineering & 
+Research",Artificial Intelligence and Data Science,Pune,19095
+383,3175,"M.G.M.'s College of Engineering and 
+Technology",Computer Science and Engineering(Data Science),Mumbai,19145
+384,6834,"Dr. D. Y. Patil College of Engineering & 
+Innovation",Computer Engineering,Pune,19195
+385,5139,"Pravara Rural College of Engineering, 
+Loni, Pravaranagar",Information Technology,Ahmednagar,19245
+386,4174,"ST. Vincent Pallotti College of 
+Engineering & Technology, Nagpu",Electronics and Telecommunication Engineering,Nagpur,19295
+387,4136,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sastha, Priyadarshini J. L. 
+College Of Engineering, Nagpur",Computer Science and Engineering,Nagpur,19345
+388,6275,"Shiavnagar Vidya Prasarak Mandal's 
+College of
+Engineering,Malegaon  Baramati",Information Technology,Pune,19395
+389,6250,"D.Y. Patil College of Engineering and 
+Technology, Kolhapur",Computer Science and Engineering(Data Science),kolhapur,19445
+390,6640,"N. B. Navale Sinhgad College of 
+Engineering, Kegaon, solapur",Computer Science and Engineering,Solapur,19495
+391,3200,"Hope Foundation and research 
+center's Finolex Academy of 
+Management and Technology",Information Technology,Ratnagiri,19545
+392,6625,"Universal College of Enginerering & 
+Research, Sasewadi",Computer Engineering,Pune,19595
+393,6184,"K. J.'s Educational Institut Trinity 
+College of Engineering and Research, 
+Pisoli, Haveli",Computer Engineering,Pune,19645
+394,2127,"Mahatma Gandhi Missions College of 
+Engineering, Hingoli Rd, Nanded.",Computer Science and Engineering,Nanded,19695
+395,3194,"Vidyavardhini's College of Engineering 
+and Technology",Electronics and Telecommunication Engineering,Mumbai,19745
+396,5173,"SNJB's Late Sau. Kantabai Bhavarlalji 
+Jain College of Engineering, (Jain 
+Gurukul), Neminagar,Chandwad",Computer Engineering,Nashik,19795
+397,6298,"Zeal Education Society's Zeal College 
+of Engineering & Reserch, Narhe, 
+Pune",Artificial Intelligence and Machine Learning,Pune,19845
+398,6770,"SKN Sinhgad Institute of Technology 
+and Science",Computer Engineering,Pune,19895
+399,1107,"P. R. Pote (Patil) Education & Welfare 
+Trust's Group of Institution(Integrated 
+Campus), Amravati",Computer Science and Engineering,Amravati,19945
+400,1120,"Jawaharlal Darda Institute of 
+Engineering and Technology, 
+Yavatmal",Computer Science and Engineering,Yavatmal,19995
+401,6222,"Dattajirao Kadam Technical Education 
+Society's Textile & Engineering 
+Institute, Ichalkaranji",Electronics and Telecommunication Engineering,Ichalkaranji,20046
+402,6794,"Anantrao College of Engineering & 
+Research",Information Technology,Pune,20096
+403,6250,"D.Y. Patil College of Engineering and 
+Technology, Kolhapur",Electronics and Telecommunication Engineering,kolhapur,20146
+404,2114,"Deogiri Institute of Engineering and 
+Management Studies, Aurangabad",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Aurangabad,20196
+405,6138,"Genba Sopanrao Moze Trust 
+Parvatibai Genba Moze College of 
+Engineering,Wagholi, Pune",Computer Engineering,Pune,20246
+406,5109,"Sandip Foundation, Sandip Institute of 
+Technology and Research Centre, 
+Mahiravani, Nashik",Information Technology,Nashik,20296
+407,6285,"Bharati Vidyapeet's college of 
+Engineering for Women, Katraj , 
+Dhankawadi, Pune",Electronics and Telecommunication Engineering,Pune,20346
+408,3477,"Chhartrapati Shivaji Maharaj Institute 
+of Technology, Shedung, Panvel, 
+Mumbai",Computer Engineering,Mumbai,20396
+409,2129,"M.S. Bidve Engineering College, Latur",Computer Science and Engineering,Latur,20446
+410,2533,"CSMSS Chh. Shahu College of 
+Engineering",Computer Science and Engineering,Aurangabad,20496
+411,6634,"KJEI's Trinity Academy of Engineering, 
+Pune, Pune",Information Technology,Pune,20546
+412,6144,"Genba Sopanrao Moze College of 
+Engineering, BanerBalewadi, Pune",Computer Engineering,Pune,20596
+413,6270,"Rayat Shikshan Sanstha's Karmaveer 
+Bhaurao Patil College of Engineering, 
+Satara",Computer Science and Engineering,Satara,20646
+414,5162,"Amrutvahini Sheti & Shikshan Vikas 
+Sanstha's Amrutvahini College of 
+Engineering",Electronics and Computer Engineering,Sangamner,20696
+415,5330,"PUNE VIDYARTHI GRIHA’S COLLEGE OF 
+ENGINEERING & SHRIKRUSHNA S. 
+DHAMANKAR INSTITUTE OF 
+MANAGEMENT",Computer Engineering,Nashik,20746
+416,3218,"Aldel Education Trust's St. John 
+College of Engineering & 
+Management",Artificial Intelligence and Machine Learning,Mumbai,20796
+417,6149,"Siddhant College of Engineering, A/p 
+Sudumbare, Tal.Maval, DistPune",Computer Engineering,Pune,20846
+418,4123,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sanstha, Priyadarshani 
+College of Engineering, Nagpur",Computer Technology,Nagpur,20896
+419,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Data Science,Nagpur,20946
+420,3187,"N.Y.S.S.'s Datta Meghe College of 
+Engineering",Electronics and Telecommunication Engineering,Mumbai,20996
+421,5162,"Amrutvahini Sheti & Shikshan Vikas 
+Sanstha's Amrutvahini College of 
+Engineering",Electronics and Telecommunication Engineering,Sangamner,21046
+422,4123,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sanstha, Priyadarshani 
+College of Engineering, Nagpur",Artificial Intelligence and Data Science,Nagpur,21096
+423,6283,"Annasaheb Dange College of 
+Engineering and Technology, Ashta, 
+Sangli",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Sangli,21146
+424,4304,"Cummins College of Engineering For 
+Women, Sukhali (Gupchup), Tal. 
+Hingna 
+Hingna Nagpur",Computer Engineering,Nagpur,21196
+425,1114,"Sipna Shikshan Prasarak Mandal 
+College of Engineering & Technology, 
+Amravati",Information Technology,Amravati,21246
+426,4137,"Sir Shantilal Badjate Charitable Trust's 
+S. B. Jain Institute of technology, 
+Management & Research, Nagpur",Computer Science and Engineering(Artificial Intelligence and Machine Learning),Nagpur,21297
+427,5103,"Shri Shivaji Vidya Prasarak Sanstha's 
+Late Bapusaheb Shivaji Rao Deore 
+College of Engineering,Dhule",Computer Engineering,Dhule,21347
+428,6622,ISBM College of Engineering Pune,Artificial Intelligence and Machine Learning,Pune,21397
+429,3189,"Bharati Vidyapeeth College of 
+Engineering",Electronics and Telecommunication Engineering,Mumbai,21447
+430,5161,"Dr. Vithalrao Vikhe Patil College of 
+Engineering",Information Technology,Ahmednagar,21497
+431,3439,"AnjumanIIslam's Kalsekar Technical 
+Campus , Panvel, Mumbai",Computer Engineering,Mumbai,21547
+432,3146,"Jawahar Education Society's 
+Annasaheb Chudaman Patil College of 
+Engineering",Computer Science and Engineering (Internet of Things and Cyber Security Including Block Chain Technology),Mumbai,21597
+433,4177,"Priyadarshini Bhagwati College of 
+Engineering, Harpur Nagar, Umred 
+Road,Nagpur",Computer Science,Nagpur,21647
+434,6145,"JSPM'S Jaywantrao Sawant College of 
+Engineering,Pune",Electronics and Telecommunication Engineering,Pune,21697
+435,4123,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sanstha, Priyadarshani 
+College of Engineering, Nagpur",Robotics and Artificial Intelligence,Nagpur,21747
+436,3207,"Mahatma Education Society's Pillai 
+College of Engineering",Electronics and Telecommunication Engineering,Mumbai,21797
+437,5109,"Sandip Foundation, Sandip Institute of 
+Technology and Research Centre, 
+Mahiravani, Nashik",Artificial Intelligence and Data Science,Nashik,21847
+438,6770,"SKN Sinhgad Institute of Technology 
+and Science",Information Technology,Pune,21897
+439,3190,Terna Engineering College,Electronics and Telecommunication Engineering,Mumbai,21947
+440,5173,"SNJB's Late Sau. Kantabai Bhavarlalji 
+Jain College of Engineering, (Jain 
+Gurukul), Neminagar,Chandwad",Artificial Intelligence and Data Science,Nashik,21997
+441,3423,"Shree L.R. Tiwari College of 
+Engineering , Mira Road, Mumbai",Electronics & Computer science,Mumbai,22047
+442,4137,"Sir Shantilal Badjate Charitable Trust's 
+S. B. Jain Institute of technology, 
+Management & Research, Nagpur",Computer Science and Engineering(Data Science),Nagpur,22097
+443,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Artificial Intelligence,Nagpur,22147
+444,3222,"Haji Jamaluddin Thim Trust's Theem 
+College of Engineering , At.Villege ,
+Betegaon, Boisar, Mumbai",Computer Engineering,Mumbai,22197
+445,6269,"Shetkari Shikshan Mandal's Pad. 
+Vasantraodada Patil Institute of 
+Technology, Budhgaon, Sangli",Computer Science and Engineering,Sangli,22247
+446,1265,"Mauli Group of Institutions, College of 
+Engineering and Technology, Shegaon",Computer Science and Engineering,Shegaon,22297
+447,6184,"K. J.'s Educational Institut Trinity 
+College of Engineering and Research, 
+Pisoli, Haveli",Information Technology,Pune,22347
+448,3147,"Saraswati Education Society, Yadavrao 
+Tasgaonkar Institute of Engineering & 
+Technology",Information Technology,Mumbai,22397
+449,6268,"Tatyasaheb Kore Institute of 
+Engineering and Technology, 
+Warananagar",Electronics and Telecommunication Engineering,Warananagar,22447
+450,4138,"Jaidev Education Society, J D College 
+of Engineering and Management, 
+Nagpur",Computer Science and Engineering,Nagpur,22497
+451,1107,"P. R. Pote (Patil) Education & Welfare 
+Trust's Group of Institution(Integrated 
+Campus), Amravati",Artificial Intelligence and Data Science,Amravati,22548
+452,1012,"Government College of 
+Engineering,Yavatmal",Electronics and Telecommunication Engineering,Yavatmal,22598
+453,6834,"Dr. D. Y. Patil College of Engineering & 
+Innovation",Artificial Intelligence and Data Science,Pune,22648
+454,4136,"Lokmanya Tilak JanKalyan, Mumbai 
+Shikshan Sastha, Priyadarshini J. L. 
+College Of Engineering, Nagpur",Artificial Intelligence,Nagpur,22698
+455,3212,"WATUMULL INSTITUTE OF 
+ELECTRONICS ENGINEERING & 
+COMPUTER TECHNOLOGY",Computer Engineering,Mumbai,22748
+456,6265,"Walchand Institute of Technology, 
+Solapur",Electronics and Telecommunication Engineering,Solapur,22798
+457,3206,S.S.P.M.'s College of Engineering,Computer Science,Kankavli,22848
+458,6178,"Sinhgad Technical Education Society's 
+Smt. Kashibai Navale College of 
+Engineering,Vadgaon,Pune",Electronics and Telecommunication Engineering,Pune,22898
+459,6317,"Sharad Institute of Technology College 
+of Engineering, Yadrav(Ichalkaranji)",Computer Science and Engineering,Kolhapur,22948
+460,5418,"Guru Gobind Singh College of 
+Engineering & Research Centre",Computer Engineering,Nashik,22998
+461,2250,Aurangabad College of Engineering,Computer Science and Engineering,Aurangabad,23048
+462,5331,"Sandip Foundation's, Sandip Institute 
+of Engineering & Management",Computer Engineering,Nashik,23098
+463,6609,"Jaihind College of Engineering, Kuran",Computer Engineering,Pune,23148
+464,5108,"Maratha Vidya Prasarak Samaj's 
+Karmaveer Adv. Baburao Ganpatrao 
+Thakare College Of Engineering, 
+Nashik",Electronics and Telecommunication Engineering,Nashik,23198
+465,6991,"Dr. D. Y. Patil Technical Campus, 
+Varale, Talegoan",Artificial Intelligence and Data Science,Pune,23248
+466,3035,"Usha Mittal Institute of Technology 
+SNDT Women's University",Data Science,Mumbai,23298
+467,6759,"Shree Ramchandra College of 
+Engineering, Lonikand,Pune",Computer Engineering,Pune,23348
+468,6759,"Shree Ramchandra College of 
+Engineering",Computer Engineering,Pune,23398
+469,3198,"Konkan Gyanpeeth College of 
+Engineering",Computer Engineering,Mumbai,23448
+470,2533,"CSMSS Chh. Shahu College of 
+Engineering",Artificial Intelligence and Data Science,Aurangabad,23498
+471,1128,"Prof Ram Meghe College of 
+Engineering and Management, 
+Badnera",Information Technology,Badnera,23548
+472,6138,"Genba Sopanrao Moze Trust 
+Parvatibai Genba Moze College of 
+Engineering,Wagholi, Pune",Information Technology,Pune,23598
+473,6811,Sanjay Ghodawat Institute,Computer Science and Engineering,Kolhapur,23648
+474,6991,"Dr. D. Y. Patil Technical Campus, 
+Varale, Talegoan",Information Technology,Pune,23698
+475,3223,"Mahatma Education Society's Pillai 
+HOC College of Engineering & 
+Technology , Tal. Khalapur. Dist. 
+Raigad",Electronics & Computer science,Raigad,23748
+476,6028,"Department of Technology, Shivaji 
+University",Computer Science and Technology,Kolhapur,23799
+477,6991,"Dr. D. Y. Patil Technical Campus, 
+Varale, Talegoan",Computer Engineering,Pune,23849
+478,3042,Government College of Engineering,Artificial Intelligence and Data Science,Ratnagiri,23899
+479,2113,"G. S. Mandal's Maharashtra Institute 
+of Technology, Aurangabad",Artificial Intelligence and Data Science,Aurangabad,23949
+480,6643,"S K N Sinhgad College of Engineering, 
+Korti Tal. Pandharpur Dist Solapur",Electronics and Telecommunication Engineering,Pandharpur,23999
+481,4142,"Ankush Shikshan Sanstha's G. H. 
+Raisoni Institute of Engineering & 
+Technology, Nagpur",Electronics and Telecommunication Engineering,Nagpur,24049
+482,5330,"PUNE VIDYARTHI GRIHA’S COLLEGE OF 
+ENGINEERING & SHRIKRUSHNA S. 
+DHAMANKAR INSTITUTE OF 
+MANAGEMENT",Information Technology,Nashik,24099
+483,6144,"Genba Sopanrao Moze College of 
+Engineering, BanerBalewadi, Pune",Information Technology,Pune,24149
+484,1105,"Prof. Ram Meghe Institute of 
+Technology & Research, Amravati",Electronics and Telecommunication Engineering,Amravati,24199
+485,5382,"Ahmednagar Jilha Maratha Vidya 
+Prasarak Samajache, Shri. Chhatrapati 
+Shivaji Maharaj College of Engineering",Computer Engineering,Nepti,24249
+486,6144,"Genba Sopanrao Moze College of 
+Engineering, BanerBalewadi, Pune",Artificial Intelligence and Machine Learning,Pune,24299
+487,6036,Government College of Engineering,Electronics and Telecommunication Engineering,Kolhapur,24349
+488,3460,"Universal College of Engineering, 
+Kaman Dist. Palghar, Mumbai",Artificial Intelligence and Machine Learning,Mumbai,24399
+489,6144,"Genba Sopanrao Moze College of 
+Engineering, BanerBalewadi, Pune",Artificial Intelligence and Data Science,Pune,24449
+490,4147,"K.D.K. College of Engineering, Nagpur",Computer Science & Engineering,Nagpur,24499
+491,1121,"Shri Hanuman Vyayam Prasarak 
+Mandals College of Engineering & 
+Technology, Amravati",Computer Science and Engineering,Amravati,24549
+492,3035,"Usha Mittal Institute of Technology 
+SNDT Women's University",Artificial Intelligence,Mumbai,24599
+493,1265,"Mauli Group of Institutions, College of 
+Engineering and Technology, Shegaon",Information Technology,Shegaon,24649
+494,3218,"Aldel Education Trust's St. John 
+College of Engineering & 
+Management",Computer Science and Engineering(Data Science),Mumbai,24699
+495,5104,"Shramsadhana Bombay Trust, College 
+of Engineering & Technology, Jalgaon",Computer Engineering,Jalgaon,24749
+496,6768,P.K. Technical Campus,Computer Engineering,Pune,24799
+497,4177,"Priyadarshini Bhagwati College of 
+Engineering, Harpur Nagar, Umred 
+Road,Nagpur",Information Technology,Nagpur,24849
+498,5330,"PUNE VIDYARTHI GRIHA’S COLLEGE OF 
+ENGINEERING & SHRIKRUSHNA S. 
+DHAMANKAR INSTITUTE OF 
+MANAGEMENT",Artificial Intelligence and Data Science,Nashik,24899
+499,6320,"K.J.'s Educational Institute's 
+K.J.College of Engineering & 
+Management Research, Pisoli",Computer Engineering,Pune,24949
+500,6758,"Sahyadri Valley College of Engineering 
+& Technology, Rajuri, Pune",Computer Engineering,Pune,25000
